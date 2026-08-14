@@ -1,22 +1,24 @@
 # Helpdesk
+
 Sistema de HelpDesk para gerenciamento de chamados de suporte técnico, desenvolvido com PHP, MySQL, HTML, CSS e JavaScript.
+
+> 🚧 **Status:** Em desenvolvimento
 
 ## 👥 Equipe
 
 ### Grazielle Souza
-Desenvolvimento Web / Analista de Sistemas
+**Desenvolvimento Web / Analista de Sistemas**
 
 Responsável por:
 - PHP
 - JavaScript
 - HTML/CSS
 - MySQL
-- API REST
 - Regras de negócio
 - Documentação funcional e técnica
 
 ### Jennifer Adrieli
-DevOps / Infraestrutura
+**DevOps / Infraestrutura**
 
 Responsável por:
 - Docker
